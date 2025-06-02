@@ -1,0 +1,71 @@
+body {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    background-color: #f0f2f5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+
+
+.container{
+    background-color: white;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 350px;
+    text-align: center;
+
+}
+
+
+.pass-wrap{
+    position: relative;
+}
+
+
+input[type="password"], input[type="text"] {
+    padding: 10px;
+    width: 100%;
+    font-size: 16px;
+    margin: 15px 0 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 25px;
+
+}
+
+
+#toggleicon{
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+    cursor: pointer;
+    color: #888;
+}
+
+
+#strengthbar{
+    height: 10px;
+  border-radius: 5px;
+  background-color: #ddd;
+  margin-bottom: 10px;
+  transition: all 0.3s ease;
+
+
+}
+
+
+#feedback{
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+
+#suggestions {
+  text-align: left;
+  font-size: 14px;
+  color: #555;
+  padding-left: 20px;
+}
