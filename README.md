@@ -37,8 +37,7 @@ Designed for **cyber security awareness** by helping users create strong, secure
 
 ## 🌐 Live Demo
 
-[Click here to view the live site](https://yourusername.github.io/password-strength-checker/)  
-*(Replace with your actual GitHub Pages URL)*
+[Click here to view the live site](https://shivangverma12.github.io/Password-Strength-Checker/)  
 
 ---
 
